@@ -7,8 +7,8 @@
   "stack": "container",
 "env": {
   "OWNER_NAME": {
-  "description": "DONT CHANGE THIS", 
-      "value": "BLADEMD"
+  "description": "BOT OWNER NAME", 
+      "value": "Alexdavid"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
